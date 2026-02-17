@@ -2,11 +2,11 @@
   "name": "demo",
   "version": "1.0.0",
   "description": "Sample description",
-  "main": "files.js",
+  "main": "filees.js",
   "type":"commonjs",
   "scripts": {
-    "start":"node files.js",
-    "dev":"nodemon files.js",
+    "start":"node filees.js",
+    "dev":"nodemon filees.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
