@@ -1,20 +1,5 @@
 {
-  "name": "demo",
-  "version": "1.0.0",
-  "description": "Sample description",
-  "main": "filees.js",
-  "type":"commonjs",
-  "scripts": {
-    "start":"node filees.js",
-    "dev":"nodemon filees.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.11"
+    "jsonwebtoken": "^9.0.3"
   }
 }
